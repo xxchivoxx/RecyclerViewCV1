@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Aquí va la adición de elementos a la lista
         productList.add(
-                new DataProvider("Folclorika", "Sones de la Huasteca",R.drawable.imagen1, Color.BLACK)
+                new DataProvider("Folclorika", "Sones de la Huasteca",R.drawable.imagen1, Color.LTGRAY)
         );
         productList.add(
                 new DataProvider("Rock Alternativo", "Urbano Argentino",R.drawable.imagen2, Color.MAGENTA)
